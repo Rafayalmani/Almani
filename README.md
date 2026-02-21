@@ -1,35 +1,9 @@
-# Vara's Portfolio
-
-A modern, high-performance portfolio website built with React, TypeScript, and Vite. This project showcases my skills, experience, and projects as a Full Stack Developer, featuring a unique neo-brutalist aesthetic mixed with interactive elements.
-
-## 🚀 Features
-
-- **Interactive Hero Section**: Features a dynamic matrix rain effect and typewriter animations for a high-tech first impression.
-- **Neo-Brutalist Design**: Distinct aesthetics with paper textures, bold borders, and high-contrast monochromatic styling.
-- **Interactive Terminal**: A custom-built terminal simulation that provides a developer-centric interactive experience.
-- **GitHub Integration**: Live visualization of GitHub contributions using `react-github-calendar`.
-- **Direct WhatsApp Messaging**: Integrated contact form that redirects users directly to WhatsApp for instant communication.
-- **Responsive & Accessible**: Fully optimized for mobile, tablet, and desktop viewports with a focus on semantic HTML and accessibility.
-- **Modern Performance**: Standardized with Vite for lightning-fast HMR and optimized production builds.
-
-## 🛠️ Tech Stack
-
-- **Framework**: [React 18](https://reactjs.org/) + [Vite](https://vitejs.dev/)
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Animations**: Tailwind CSS Animate
-- **Routing**: React Router DOM v6
-- **State Management**: React Query (TanStack Query)
-
-## 📦 Installation & Setup
-
-To get a local copy up and running, follow these steps:
+Almani Portfolio
 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/VARA4u-tech/Vara-s--Portfolio.git
+   git clone https://github.com/Rafayalmani/Almani.git
    cd Vara-s--Portfolio
    ```
 
@@ -65,11 +39,11 @@ src/
 ## 📬 Contact
 
 - **Author**: Pappuri Durga Vara Prasad
-- **Email**: [pappuridurgavaraprasad4pl@gmail.com](mailto:pappuridurgavaraprasad4pl@gmail.com)
-- **WhatsApp**: [+91 9550533315](https://wa.me/919550533315)
-- **GitHub**: [@VARA4u-tech](https://github.com/VARA4u-tech)
-- **LinkedIn**: [vara4u](https://linkedin.com/in/vara4u)
+- **Email**: almanicompanylimited@gmail.com
+- **WhatsApp**: https://wa.me/923155089965
+- **GitHub**: https://github.com/Rafayalmani
+- **LinkedIn**: https://linkedin.com/in/rafayalmani
 
 ---
 
-_Built with ❤️ and a lot of caffeine by Vara._
+_Built with ❤️ and a lot of caffeine by almani
