@@ -23,7 +23,7 @@ const Finale = () => {
   ];
 
   const marqueeTags = [
-    "DURGA VARA PRASAD",
+    "Rafay Almani",
     "FULL STACK DEVELOPER",
     "FLUTTER EXPERT",
     "REACT ENTHUSIAST",
