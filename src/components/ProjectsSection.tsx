@@ -40,6 +40,21 @@ const projects = [
       "https://github.com/Rafayalmani/Craftedfromheaven",
     liveUrl: "https://craftedfromheaven.store/",
   },
+    {
+    title: "Cryptrix",
+    isNew: true,
+    description:
+      "Cryptrix is a responsive React crypto tracker app that aggregates live prices, detailed coin analytics, and Telegram signal feeds — all in a sleek dark interface perfect for modern portfolios.",
+    tags: [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      
+    ],
+    githubUrl:
+      "https://github.com/Rafayalmani/Cryptrix",
+    liveUrl: "https://cryptrix-gilt.vercel.app",
+  },
   
 ];
 
