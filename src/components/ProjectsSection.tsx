@@ -5,8 +5,23 @@ import { Badge } from "./ui/badge";
 
 const projects = [
   {
-    title: "ChainScope",
+    title: "Cryptrix",
     isNew: true,
+    description:
+      "Cryptrix is a responsive React crypto tracker app that aggregates live prices, detailed coin analytics, and Telegram signal feeds — all in a sleek dark interface perfect for modern portfolios.",
+    tags: [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      
+    ],
+    githubUrl:
+      "https://github.com/Rafayalmani/Cryptrix",
+    liveUrl: "https://cryptrix-gilt.vercel.app",
+  },
+  {
+    title: "ChainScope",
+    
     description:
       "ChainScope – Multi-chain wallet & token tracker built with React, Firebase, and Web3.js. Provides real-time token balances, transaction history, and analytics across multiple blockchains with a clean, responsive UI.",
     tags: [
@@ -40,21 +55,7 @@ const projects = [
       "https://github.com/Rafayalmani/Craftedfromheaven",
     liveUrl: "https://craftedfromheaven.store/",
   },
-    {
-    title: "Cryptrix",
-    isNew: true,
-    description:
-      "Cryptrix is a responsive React crypto tracker app that aggregates live prices, detailed coin analytics, and Telegram signal feeds — all in a sleek dark interface perfect for modern portfolios.",
-    tags: [
-      "React",
-      "Next.js",
-      "Tailwind CSS",
-      
-    ],
-    githubUrl:
-      "https://github.com/Rafayalmani/Cryptrix",
-    liveUrl: "https://cryptrix-gilt.vercel.app",
-  },
+    
   
 ];
 
