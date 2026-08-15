@@ -55,6 +55,21 @@ const projects = [
       "https://github.com/Rafayalmani/Craftedfromheaven",
     liveUrl: "https://craftedfromheaven.store/",
   },
+    {
+    title: "Reply Flow",
+    isNew: true,
+    description:
+      "Natural AI reply suggestions, right inside X. Bring your own free Groq key, review every word, and always press send yourself.",
+    tags: [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      
+    ],
+    githubUrl:
+      "https://github.com/Rafayalmani/Replyflow",
+    liveUrl: "https://replyflow-navy.vercel.app",
+  },
     
   
 ];
